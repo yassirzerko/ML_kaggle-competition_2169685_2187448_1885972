@@ -10,7 +10,7 @@ This github contains the code notebooks of the team **Team Machine**, composed o
 * Mohamed Yassir El Aoufir, 1885972, mohamed-yassir.el-aoufir@polymtl.ca
 
 # Instructions 
-The model responsible for generating the final predictions is in the notebook named ```final.ipynb```, more precisely in section 1.2, more instructions are given in the notebook. 
+The model responsible for generating the final predictions is in the notebook named ```final.ipynb```, more precisely in section 1.2 of this notebook,but you must run the whole section 1 to generate the final predictions, more instructions are given in the notebook. 
 
 The notebook named ```initial_exploration.ipynb``` contains some of the explorations and leads we tried during our work, this is the code linked to the section 4.1 *Inital approach* of our report .
 
