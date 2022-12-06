@@ -4,7 +4,7 @@ must participate in a kaggle competition in teams of 3. The goal is to implement
 learning model that can predict how much a concertgoer will enjoy a concert based on concert and
 concertgoer data. 
 
-This github contains the code notebooks of the team **Team Machine**, composed of :
+This folder contains the code notebooks of the team **Team Machine**, composed of :
 * Noreen Anwar, 2169685, noreen.anwar@polymtl.ca
 * Naveed Shahzad, 2187448, naveed.shahzad@polymtl.ca
 * Mohamed Yassir El Aoufir, 1885972, mohamed-yassir.el-aoufir@polymtl.ca
